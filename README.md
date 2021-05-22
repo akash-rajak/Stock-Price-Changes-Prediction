@@ -1,0 +1,1 @@
+Build a NLP and ML model predicting from the headlines of Stock News, whether the stock price will increase or not.
